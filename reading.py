@@ -11,7 +11,7 @@ from modeling import train_model
 
 # GLOBAL variables
 XYZ_FILE = 'data/dtm/xyz/gom_sigsbee.xyz'
-MASK_FILE = 'data/mask/interp_bw.jpg'
+MASK_FILE = 'data/mask/interp_bw_6px.jpg'
 
 
 def readDtm():
